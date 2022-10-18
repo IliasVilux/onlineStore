@@ -1,0 +1,11 @@
+@import "style.css";
+.bgGris{
+    background-color: #f9f9f9;
+}
+.espacioTop{
+    padding-top: 100px;
+}
+.required:after {
+    content:" *";
+    color: red;
+}
